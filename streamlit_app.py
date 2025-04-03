@@ -1,3 +1,7 @@
+import streamlit as st
+import pandas as pd
+import matplotlib.pyplot as plt
+
 # Titre de l'application
 st.title("Analyse ESG de Kering, Schneider Electric et Danone")
 
